@@ -8,10 +8,12 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-image: url(../img/neymar-4k-splashed-paint-917vlvrqs3adyh1n.jpg);
+    
 }
 
 .container {
-    background-color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.93);
     border-radius: 10px;
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.9); /* Sombreamento mais forte */
     padding: 40px;
@@ -45,7 +47,7 @@ body {
 .btn-contato a {
     text-decoration: none;
     color: #fff;
-    background-color: #007bff;
+    background-color: #1cca05;
     padding: 10px 20px;
     border-radius: 5px;
     display: inline-block;
@@ -54,5 +56,6 @@ body {
 }
 
 .btn-contato a:hover {
-    background-color: #0056b3;
+    background-color: yellow;
+    color: black;
 }
