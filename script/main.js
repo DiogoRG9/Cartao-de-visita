@@ -8,6 +8,6 @@ window.onload = () => {
     if('serviceWorker' in navigator){
         //registra o Service Worker no navegador
         navigator.serviceWorker
-            .register('scsw.js')
+            .register('./sw.js')
     }
 };
