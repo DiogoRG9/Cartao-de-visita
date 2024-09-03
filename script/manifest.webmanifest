@@ -1,7 +1,7 @@
 {
-    "name":"CartãoPessoaldoDiogo",
+    "name":"Cartão Pessoal do Diogo",
     "short_name":"Cartão",
-    "description":"Aplicativo de referência dos dados profissionais de Diogo Roque Gaiato.",
+    "description": "Aplicativo de referência dos dados profissionais de Diogo Roque Gaiato.",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
